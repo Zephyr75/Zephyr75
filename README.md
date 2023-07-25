@@ -6,7 +6,7 @@ Some of my best projects include:
 - 🛰️ [road classifier](https://github.com/Zephyr75/road-classifier-satellite) : a machine learning computer vision project to identify roads from satellite images, the link will be available soon.
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : a solo-developed adventure game made with Unity about rebellion against an illegitimate dictator
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a PyGame project to teach an AI to play a randomly generated platformer
-- 🤖 [subject 77](https://zeph74.itch.io/subject-77) : a solo-developed Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl
+- 🤖 [subject 77](https://github.com/Zephyr75/OGJ_2023) : a solo-developed Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl
 
 Did I mention I ❤️ Blender?
 You can find some of my artistic work on my [artstation](https://www.artstation.com/zephyr74).
