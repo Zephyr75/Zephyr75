@@ -3,7 +3,7 @@ I'm Antoine, a French computer science student passionate about the science behi
 
 Some of my best projects include:
 - 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes.
-- 🛰️ [road classifier](https://github.com/Zephyr75/road-classifier-satellite) : a machine learning computer vision project to identify roads from satellite images, the link will be available soon.
+- 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images, the link will be available soon.
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : a solo-developed adventure game made with Unity about rebellion against an illegitimate dictator
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a PyGame project to teach an AI to play a randomly generated platformer
 - 🤖 [subject 77](https://github.com/Zephyr75/OGJ_2023) : a solo-developed Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl
