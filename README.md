@@ -8,7 +8,7 @@ Some of my best projects include:
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : an ML project to teach an AI to play a randomly generated PyGame platformer
 - 🤖 [subject 77](https://github.com/Zephyr75/OGJ_2023) : a solo-developed Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl
 
-Portfolio can be found [here](zephyr75.github.io)
+Portfolio can be found [here](https://zephyr75.github.io)
 
 Did I mention I ❤️ Blender?
 You can find some of my artistic work on my [artstation](https://www.artstation.com/zephyr74).
