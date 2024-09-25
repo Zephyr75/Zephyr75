@@ -10,6 +10,7 @@ Some of my best projects include:
 - 🤖 [Subject 77](https://github.com/Zephyr75/OGJ_2023) : a hack'n slash Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl.
 - :fish: [Shingeki no Tako](https://github.com/jadtl/OGJ2022) : a 2D shooter Game Jam game made in 24 hours for Orbital Game Jam 2022.
 - :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
+- :running: [HealthPlay](https://github.com/HealthPlay-EPFL/Health-Play) : a gamified sports application for Android.
 - :stars: [Rigel](https://github.com/Zephyr75/Rigel) : a space observation software written in Java.
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
 - 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images.
