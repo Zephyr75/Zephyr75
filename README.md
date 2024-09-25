@@ -3,9 +3,11 @@ I'm Antoine, a French computer science engineer passionate about making games an
 
 Some of my best projects include:
 - 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework [gutter](https://github.com/Zephyr75/gutter).
-- ⚔️ [elysium](https://github.com/Zephyr75/elysium) : a adventure game made with Unity about rebellion against an illegitimate dictator.
+- ⚔️ [elysium](https://github.com/Zephyr75/elysium) : an adventure game made with Unity about rebellion against an illegitimate dictator.
+- :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the Chroniques d'Astratrion series of books
 - :school: [Knot](https://github.com/Zephyr75/Knot) : a puzzle game made with Unity about making small machines with school supplies.
 - :earth_africa: [Exoly](https://gamejolt.com/games/exoly/266366) : a multiplayer space game which released in alpha with 100+ simultaneous players.
+- :sparkles: [The Conjurer's Cadet](https://github.com/thetorf/magicVR) : a virtual reality game where you take all sorts of magic courses.
 - :rocket: [Starship big no die](https://github.com/Zephyr75/starship_big_no_die) : a ship-building Game Jam game made in 24 hours for GMTK Game Jam 2024.
 - 🤖 [Subject 77](https://github.com/Zephyr75/OGJ_2023) : a hack'n slash Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl.
 - :fish: [Shingeki no Tako](https://github.com/jadtl/OGJ2022) : a 2D shooter Game Jam game made in 24 hours for Orbital Game Jam 2022.
