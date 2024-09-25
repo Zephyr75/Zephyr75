@@ -6,10 +6,11 @@ Some of my best projects include:
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : a solo-developed adventure game made with Unity about rebellion against an illegitimate dictator.
 - 🤖 [Subject 77](https://github.com/Zephyr75/OGJ_2023) : a Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl.
 - :fish: [Shingeki no Tako](https://github.com/jadtl/OGJ2022) : a Game Jam game made in 24 hours for Orbital Game Jam 2022.
-- 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : an ML project to teach an AI to play a PyGame randomly generated platformer.
+- :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
+- 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
 - 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images.
 
-Portfolio can be found [here](https://zephyr75.github.io)
+Terminal portfolio can be found [here](https://zephyr75.github.io)
 
 Did I mention I ❤️ Blender?
 You can find some of my artistic work on my [artstation](https://www.artstation.com/zephyr74).
