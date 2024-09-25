@@ -2,7 +2,7 @@
 I'm Antoine, a French computer science student passionate about the science behind making games! I love experimenting with new technologies in my personal projects.
 
 Some of my best projects include:
-- 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes.
+- 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework [gutter](https://github.com/Zephyr75/gutter).
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : a solo-developed adventure game made with Unity about rebellion against an illegitimate dictator.
 - 🤖 [Subject 77](https://github.com/Zephyr75/OGJ_2023) : a Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl.
 - :fish: [Shingeki no Tako](https://github.com/jadtl/OGJ2022) : a Game Jam game made in 24 hours for Orbital Game Jam 2022.
