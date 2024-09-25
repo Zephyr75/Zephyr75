@@ -6,7 +6,7 @@ Some of my best projects include:
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : an adventure game made with Unity about rebellion against an illegitimate dictator.
 - :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the Chroniques d'Astratrion series of books
 - :school: [Knot](https://github.com/Zephyr75/Knot) : a puzzle game made with Unity where you make small machines with school supplies.
-- :deciduous_tree: [Knot](https://github.com/Zephyr75/wasteland) : an action game made with Unity where children playing spies in a wasteland.
+- :deciduous_tree: [Wasteland](https://github.com/Zephyr75/wasteland) : an action game made with Unity where children playing spies in a wasteland.
 - :earth_africa: [Exoly](https://gamejolt.com/games/exoly/266366) : a multiplayer space game which released in alpha with 100+ simultaneous players.
 - :sparkles: [The Conjurer's Cadet](https://github.com/Zephyr75/magicVR) : a virtual reality game where you take all sorts of magic courses.
 - :rocket: [Starship big no die](https://github.com/Zephyr75/starship_big_no_die) : a ship-building Game Jam game made in 24 hours for GMTK Game Jam 2024.
