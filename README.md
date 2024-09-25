@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Antoine, a French computer science student passionate about the science behind making games! I love experimenting with new technologies in my personal projects.
+I'm Antoine, a French computer science engineer passionate about making games and the technologies behind it!
 
 Some of my best projects include:
 - 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework [gutter](https://github.com/Zephyr75/gutter).
