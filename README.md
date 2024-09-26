@@ -4,7 +4,7 @@ I'm Antoine, a French computer science engineer passionate about making games an
 Some of my best projects include:
 - 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework [gutter](https://github.com/Zephyr75/gutter).
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : an adventure game made with Unity about rebellion against an illegitimate dictator.
-- :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the Chroniques d'Astratrion series of books
+- :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the *Chroniques d'Astratrion* series of books
 - :school: [Knot](https://github.com/Zephyr75/Knot) : a puzzle game made with Unity where you make small machines with school supplies.
 - :deciduous_tree: [Wasteland](https://github.com/Zephyr75/wasteland) : an action game made with Unity where children playing spies in a wasteland.
 - :earth_africa: [Exoly](https://gamejolt.com/games/exoly/266366) : a multiplayer space game which released in alpha with 100+ simultaneous players.
@@ -15,6 +15,7 @@ Some of my best projects include:
 - :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
 - :running: [HealthPlay](https://github.com/HealthPlay-EPFL/Health-Play) : a gamified sports application for Android.
 - :stars: [Rigel](https://github.com/Zephyr75/Rigel) : a space observation software written in Java.
+- :bulb: [Raytracer](https://github.com/zephyr75/raytracer) : a Rust implementation of the *Ray Tracing in One Weekend* book
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
 - 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images.
 
