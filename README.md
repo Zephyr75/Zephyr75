@@ -2,7 +2,7 @@
 I'm Antoine, a French computer science engineer passionate about making games and the technologies behind it!
 
 Some of my best projects include:
-- 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework [gutter](https://github.com/Zephyr75/gutter).
+- 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework :droplet: [gutter](https://github.com/Zephyr75/gutter).
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : an adventure game made with Unity about rebellion against an illegitimate dictator.
 - :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the *Chroniques d'Astratrion* series of books
 - :school: [Knot](https://github.com/Zephyr75/Knot) : a puzzle game made with Unity where you make small machines with school supplies.
