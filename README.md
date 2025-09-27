@@ -4,6 +4,8 @@ I'm Antoine, a French computer science engineer passionate about making software
 Some of my best projects include:
 - 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework :droplet: [gutter](https://github.com/Zephyr75/gutter).
 - :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
+- 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
+- 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images.
 - :running: [HealthPlay](https://github.com/HealthPlay-EPFL/Health-Play) : a gamified sports application for Android.
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : an adventure game made with Unity about rebellion against an illegitimate dictator.
 - :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the *Chroniques d'Astratrion* series of books
@@ -16,8 +18,6 @@ Some of my best projects include:
 - :fish: [Shingeki no Tako](https://github.com/jadtl/OGJ2022) : a 2D shooter Game Jam game made in 24 hours for Orbital Game Jam 2022.
 - :bulb: [Raytracer](https://github.com/zephyr75/raytracer) : a Rust implementation of the *Ray Tracing in One Weekend* book.
 - :stars: [Rigel](https://github.com/Zephyr75/Rigel) : a space observation software written in Java.
-- 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
-- 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images.
 
 Did I mention I ❤️ Blender?
 You can find some of my artistic work on my [artstation](https://www.artstation.com/zephyr74).
