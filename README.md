@@ -6,12 +6,12 @@ Some of my best projects include:
 - :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
 - 🛰️ [road classifier](https://github.com/Zephyr75/road_classifier) : a machine learning computer vision project to identify roads from satellite images.
-- :running: [HealthPlay](https://github.com/HealthPlay-EPFL/Health-Play) : a gamified sports application for Android.
+- :notebook_with_decorative_cover: [Notedown](https://github.com/Zephyr75/notedown) : an all-in-one note taking and todo app using Markdown including a RAG system.
+- :earth_africa: [Exoly](https://gamejolt.com/games/exoly/266366) : a multiplayer space game which released in alpha with 100+ simultaneous players.
 - ⚔️ [elysium](https://github.com/Zephyr75/elysium) : an adventure game made with Unity about rebellion against an illegitimate dictator.
-- :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the *Chroniques d'Astratrion* series of books
+- :herb: [astratrion](https://github.com/Zephyr75/astratrion) : an adventure game made with Unity inspired by the *Chroniques d'Astratrion* series of books.
 - :school: [Knot](https://github.com/Zephyr75/Knot) : a puzzle game made with Unity where you make small machines with school supplies.
 - :deciduous_tree: [Wasteland](https://github.com/Zephyr75/wasteland) : an action game made with Unity where children playing spies in a wasteland.
-- :earth_africa: [Exoly](https://gamejolt.com/games/exoly/266366) : a multiplayer space game which released in alpha with 100+ simultaneous players.
 - :sparkles: [The Conjurer's Cadet](https://github.com/Zephyr75/magicVR) : a virtual reality game where you take all sorts of magic courses.
 - :rocket: [Starship big no die](https://github.com/Zephyr75/starship_big_no_die) : a ship-building Game Jam game made in 24 hours for GMTK Game Jam 2024.
 - 🤖 [Subject 77](https://github.com/Zephyr75/OGJ_2023) : a hack'n slash Game Jam game made in 24 hours for Orbital Game Jam 2023, music by jadtl.
