@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Antoine, a French computer science engineer passionate about making software and 3D games and the technologies behind it!
 
-Some of my best projects include:
+Some of my personal projects include:
 - 🏎️ [overdrive](https://github.com/Zephyr75/overdrive) : a work-in-progress game engine created using OpenGL and supporting a custom export format to fully integrate with Blender scenes. UI is handled with my custom framework :droplet: [gutter](https://github.com/Zephyr75/gutter).
 - :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
 - 🧠 [platformer AI](https://github.com/Zephyr75/platformerAI) : a machine learning project to teach an AI to play a PyGame randomly generated platformer.
