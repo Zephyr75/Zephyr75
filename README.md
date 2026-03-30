@@ -2,7 +2,7 @@
 I'm Antoine, a French computer science engineer passionate about computer vision, games, the cloud and the technologies behind it!
 
 Some of my personal projects include:
-- :notebook_with_decorative_cover: [Notedown](https://github.com/Zephyr75/notedown) : an all-in-one note taking and todo app using Markdown including a RAG system.
+- :notebook_with_decorative_cover: [Notedown](https://github.com/Zephyr75/notedown) : an all-in-one online note taking and todo app using Markdown including a RAG system.
 - :cloud: [Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub) : a game hosting platform for iOS developed for the Cellulo Project at EPFL.
 - 🤖 [robot arm](https://github.com/WollfieGitHub/MIT_Robotic_Arm) : a shopping robot arm running on an Arduino using an ESP32 camera for vision.
 - 🦆 [D.U.C.K.](https://store.steampowered.com/app/4194930/DUCK/) : a Tower Defense game with a Tetris twist, available on Steam!
